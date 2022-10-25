@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.profilna {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-top: 50px;
+}
+
+.strojevi {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.multimetar {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sacramento';
+  font-size: 4.375rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.podnaslov {
+  font-family: monospace;
+  font-size: 1.25rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-box {
+  background-color: #425F57;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+.contact-me {
+
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.bottom-container {
+  background-color: #425F57;
+  height: 120px;
+}
+.button {margin-bottom: 100px;
+margin-top: 50px;}
+.btn {
+  background: #30e3cb;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+
+  background: #3cb0fd;
+
+
+  text-decoration: none;
+}
